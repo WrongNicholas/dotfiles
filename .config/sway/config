@@ -1,9 +1,9 @@
 # woji config
 # Read `man 5 sway` for a complete reference.
 
-blur enable
-blur_radius 6
-blur_passes 3
+# blur enable
+# blur_radius 6
+# blur_passes 3
 
 ### Variables
 set $mod Mod4
@@ -25,7 +25,7 @@ exec swayidle -w \
 
 ### Decoration
 default_border none
-output * bg /usr/share/backgrounds/discoagain.png fill
+output * bg /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_2048x1536.png fill
 
 ### Input configuration
 #
