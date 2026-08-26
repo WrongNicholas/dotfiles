@@ -16,4 +16,4 @@ fi
 # Aliases
 alias fetch='fastfetch'
 alias neofetch='fastfetch'
-alias l='eza --icons'
+alias l='eza -a --icons'
