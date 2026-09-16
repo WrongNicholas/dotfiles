@@ -4,3 +4,7 @@ opacity=0.9
 
 [font]
 normal = { family = "DejaVuSansM Nerd Font Mono" }
+
+[terminal.shell]
+program = "/bin/zsh"
+args = ["-lc", "exec tmux"]
