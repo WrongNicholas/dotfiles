@@ -9,7 +9,7 @@ return {
     init = function() vim.g.barbar_auto_setup = false end,
     opts = {
     },
-    version = '^1.0.0',
+    -- version = '^1.0.0',
 
     -- Keybindings
     vim.keymap.set("n", "<Tab>", ":BufferNext<CR>", { noremap = true, silent = true }),
